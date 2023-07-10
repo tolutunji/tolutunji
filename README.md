@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tolutunji
 - I'm based in Lagos, Nigeria
 - 👀 I am into software development
-- 🌱 I’m currently learning python
+- I have prerequisite knowledge of git, html, css, javascript.
+- 🌱 I’m currently learning python, typescript, sass, compass, sql.
 - 💞️ I’m looking to collaborate on coding and algorithm development
 - 📫 How to reach me olubobokuntolulope@gmail.com; olubobokuntolulope@ymail.com
 
