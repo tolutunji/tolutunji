@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tolutunji
-- 👀 I’m interested in software development
+- I'm based in Lagos, Nigeria
+- 👀 I am into software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding and algorithm development
 - 📫 How to reach me olubobokuntolulope@gmail.com; olubobokuntolulope@ymail.com
